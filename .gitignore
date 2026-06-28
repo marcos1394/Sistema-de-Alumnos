@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Angular
+node_modules/
+dist/
+.angular/
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Base de datos
+*.sqlite
+*.sqlite3
+*.db
+*.sql.gz
+
+# Archivos de configuración sensibles
+config.ini
+secrets.py
+.env
+.env.local
+
+# Cobertura
+coverage/
+.coverage
+.coverage.*
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+~*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
